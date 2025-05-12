@@ -94,7 +94,7 @@
         <mxCell id="yMKcdQye-1iRp8KRsEaN-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;将动画状态设置为&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;讲解状态&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="700" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yMKcdQye-1iRp8KRsEaN-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;生成0-1间的随机数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yMKcdQye-1iRp8KRsEaN-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;调整动画混合比例&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="381.25" y="830" width="168.75" height="60" as="geometry" />
         </mxCell>
       </root>
