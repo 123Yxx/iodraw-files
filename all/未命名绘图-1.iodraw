@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3713" dy="3692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="675" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d4Zc4BFdPExF3td0lfgV-25" value="&lt;font&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="90" width="40" height="30" as="geometry" />
+          <mxGeometry x="320" y="60" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d4Zc4BFdPExF3td0lfgV-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="d4Zc4BFdPExF3td0lfgV-29" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -41,10 +41,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;重置口型&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="530" width="150" height="40" as="geometry" />
+          <mxGeometry x="380" y="260" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;清空字幕&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="590" width="150" height="40" as="geometry" />
+          <mxGeometry x="380" y="320" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
