@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1393" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2476" dy="2851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -88,50 +88,49 @@
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-20" value="&lt;font&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="260" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I6kLQMqIPHm7VV6S4t7o-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I6kLQMqIPHm7VV6S4t7o-21" target="I6kLQMqIPHm7VV6S4t7o-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="I6kLQMqIPHm7VV6S4t7o-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I6kLQMqIPHm7VV6S4t7o-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;将音素数据映射到&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;3D模型口型上&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="107.5" y="620" width="225" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I6kLQMqIPHm7VV6S4t7o-23" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;该字幕数据段的开始时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&amp;nbsp;&amp;gt; 当前音频播放时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&amp;gt;该字幕数据段的结束时间?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="710" width="320" height="180" as="geometry" />
         </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I6kLQMqIPHm7VV6S4t7o-27" target="I6kLQMqIPHm7VV6S4t7o-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I6kLQMqIPHm7VV6S4t7o-27" target="I6kLQMqIPHm7VV6S4t7o-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870" y="866" as="targetPoint" />
+            <mxPoint x="435" y="1116" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="860" y="596" />
-              <mxPoint x="860" y="796" />
-              <mxPoint x="660" y="796" />
+              <mxPoint x="425" y="846" />
+              <mxPoint x="425" y="1046" />
+              <mxPoint x="225" y="1046" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-27" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;该字幕数据段的开始时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&amp;nbsp;&amp;gt; 当前音频播放时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&amp;gt;该字幕数据段的结束时间?&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="526" width="320" height="140" as="geometry" />
+          <mxGeometry x="65" y="740" width="320" height="176" as="geometry" />
         </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I6kLQMqIPHm7VV6S4t7o-29" target="I6kLQMqIPHm7VV6S4t7o-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="736" />
-              <mxPoint x="450" y="596" />
+              <mxPoint x="15" y="986" />
+              <mxPoint x="15" y="846" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-29" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;获取下一段音素预测数据&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="552.5" y="706" width="215" height="60" as="geometry" />
+          <mxGeometry x="117.5" y="956" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-30" value="&lt;font&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="666" width="40" height="30" as="geometry" />
+          <mxGeometry x="225" y="916" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-31" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;获取前一帧音素预测数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="547.5" y="830" width="225" height="60" as="geometry" />
+          <mxGeometry x="112.5" y="1080" width="225" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-32" value="&lt;font&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="814" y="566" width="40" height="30" as="geometry" />
+          <mxGeometry x="379" y="816" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
