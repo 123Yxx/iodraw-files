@@ -88,11 +88,14 @@
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-20" value="&lt;font&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="260" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="I6kLQMqIPHm7VV6S4t7o-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I6kLQMqIPHm7VV6S4t7o-21" target="I6kLQMqIPHm7VV6S4t7o-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;将音素数据映射到&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;3D模型口型上&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="107.5" y="620" width="225" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-23" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;该字幕数据段的开始时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&amp;nbsp;&amp;gt; 当前音频播放时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&amp;gt;该字幕数据段的结束时间?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="710" width="320" height="160" as="geometry" />
+          <mxGeometry x="60" y="710" width="320" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
