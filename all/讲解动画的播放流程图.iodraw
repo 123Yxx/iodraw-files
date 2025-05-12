@@ -71,8 +71,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="640" y="370" />
-              <mxPoint x="640" y="1000" />
-              <mxPoint x="219" y="1000" />
+              <mxPoint x="640" y="1030" />
+              <mxPoint x="219" y="1030" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -122,6 +122,9 @@
         </mxCell>
         <mxCell id="yMKcdQye-1iRp8KRsEaN-18" value="&lt;font&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="580" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMKcdQye-1iRp8KRsEaN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yMKcdQye-1iRp8KRsEaN-20" target="yMKcdQye-1iRp8KRsEaN-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yMKcdQye-1iRp8KRsEaN-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;重置计时器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135" y="910" width="168.75" height="60" as="geometry" />
