@@ -120,8 +120,8 @@
         <mxCell id="yMKcdQye-1iRp8KRsEaN-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;重置计时器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135" y="960" width="168.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMKcdQye-1iRp8KRsEaN-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;重置计时器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="145" y="970" width="168.75" height="60" as="geometry" />
+        <mxCell id="yMKcdQye-1iRp8KRsEaN-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;更新动画状态&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="135" y="1070" width="168.75" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
