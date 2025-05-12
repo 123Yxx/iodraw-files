@@ -114,26 +114,35 @@
         </mxCell>
         <mxCell id="yMKcdQye-1iRp8KRsEaN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yMKcdQye-1iRp8KRsEaN-16" target="yMKcdQye-1iRp8KRsEaN-20">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465.7142857142858" y="800" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="466" y="920" />
-              <mxPoint x="219" y="920" />
+              <mxPoint x="219" y="870" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="yMKcdQye-1iRp8KRsEaN-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;调整动画混合比例&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="381.25" y="830" width="168.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yMKcdQye-1iRp8KRsEaN-18" value="&lt;font&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="580" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yMKcdQye-1iRp8KRsEaN-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;重置计时器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="960" width="168.75" height="60" as="geometry" />
+          <mxGeometry x="135" y="910" width="168.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yMKcdQye-1iRp8KRsEaN-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;更新动画状态&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135" y="1120" width="168.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yMKcdQye-1iRp8KRsEaN-26" value="&lt;font&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="340" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMKcdQye-1iRp8KRsEaN-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="yMKcdQye-1iRp8KRsEaN-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465.7142857142858" y="800" as="sourcePoint" />
+            <mxPoint x="219" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="466" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMKcdQye-1iRp8KRsEaN-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;调整动画混合比例&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="381.88" y="770" width="168.75" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
