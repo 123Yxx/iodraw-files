@@ -18,7 +18,7 @@
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d4Zc4BFdPExF3td0lfgV-19" target="I6kLQMqIPHm7VV6S4t7o-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I6kLQMqIPHm7VV6S4t7o-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d4Zc4BFdPExF3td0lfgV-19" edge="1">
+        <mxCell id="I6kLQMqIPHm7VV6S4t7o-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d4Zc4BFdPExF3td0lfgV-19" target="yMKcdQye-1iRp8KRsEaN-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="220" as="targetPoint" />
           </mxGeometry>
@@ -59,7 +59,7 @@
           <mxGeometry x="112.5" y="1050" width="225" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yMKcdQye-1iRp8KRsEaN-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;计时器时间减少&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="107.5" y="240" width="225" height="60" as="geometry" />
+          <mxGeometry x="107.5" y="220" width="225" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
