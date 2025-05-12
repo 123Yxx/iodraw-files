@@ -147,10 +147,15 @@
         <mxCell id="yMKcdQye-1iRp8KRsEaN-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yMKcdQye-1iRp8KRsEaN-29" target="yMKcdQye-1iRp8KRsEaN-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yMKcdQye-1iRp8KRsEaN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yMKcdQye-1iRp8KRsEaN-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yMKcdQye-1iRp8KRsEaN-29" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;当前动画为讲解动画？&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="109.69" y="1030" width="219.38" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yMKcdQye-1iRp8KRsEaN-31" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;重置计时器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yMKcdQye-1iRp8KRsEaN-31" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;更新混合参数比例&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135.63" y="1170" width="168.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yMKcdQye-1iRp8KRsEaN-33" value="&lt;font&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
