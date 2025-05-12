@@ -91,6 +91,9 @@
         <mxCell id="yMKcdQye-1iRp8KRsEaN-14" value="&lt;font&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="660" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yMKcdQye-1iRp8KRsEaN-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;将动画状态设置为&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;站立状态&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="700" width="170" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
