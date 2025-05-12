@@ -30,7 +30,7 @@
               <mxPoint x="450" y="120" />
               <mxPoint x="450" y="510" />
             </Array>
-            <mxPoint x="220" y="510" as="targetPoint" />
+            <mxPoint x="450" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d4Zc4BFdPExF3td0lfgV-19" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;音频是否正在播放?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
