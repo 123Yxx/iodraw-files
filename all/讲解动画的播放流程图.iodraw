@@ -18,9 +18,9 @@
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d4Zc4BFdPExF3td0lfgV-19" target="I6kLQMqIPHm7VV6S4t7o-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I6kLQMqIPHm7VV6S4t7o-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d4Zc4BFdPExF3td0lfgV-19" target="I6kLQMqIPHm7VV6S4t7o-13" edge="1">
+        <mxCell id="I6kLQMqIPHm7VV6S4t7o-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d4Zc4BFdPExF3td0lfgV-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="210" as="targetPoint" />
+            <mxPoint x="220" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d4Zc4BFdPExF3td0lfgV-19" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;音频是否正在播放?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -52,14 +52,14 @@
             <mxPoint x="595" y="921" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I6kLQMqIPHm7VV6S4t7o-13" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;该音素预测数据段的时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&amp;nbsp;&amp;lt; 当前音频播放时间?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="60" y="220" width="320" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I6kLQMqIPHm7VV6S4t7o-31" target="d4Zc4BFdPExF3td0lfgV-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-31" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;将该字幕文本设置到界面&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="112.5" y="1050" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yMKcdQye-1iRp8KRsEaN-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;将该字幕文本设置到界面&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="270" width="225" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
