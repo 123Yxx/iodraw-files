@@ -30,7 +30,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UdKY_W9XLgbzr1cTIZ-E-13" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;异步等待后端响应&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="354" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" y="340" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UdKY_W9XLgbzr1cTIZ-E-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UdKY_W9XLgbzr1cTIZ-E-7" target="6DpLvLA1x2g9YwhH6toP-5" edge="1">
           <mxGeometry relative="1" as="geometry">
