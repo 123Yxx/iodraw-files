@@ -23,7 +23,7 @@
           <mxGeometry x="97.5" y="160" width="245" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6DpLvLA1x2g9YwhH6toP-17" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="550" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zMkj9Olkd8WzaMIQrMpz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zMkj9Olkd8WzaMIQrMpz-0" target="zMkj9Olkd8WzaMIQrMpz-2">
           <mxGeometry relative="1" as="geometry" />
@@ -42,9 +42,6 @@
         </mxCell>
         <mxCell id="zMkj9Olkd8WzaMIQrMpz-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;返回文件的&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;URL&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;地址&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="132.5" y="400" width="175" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="zMkj9Olkd8WzaMIQrMpz-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="zMkj9Olkd8WzaMIQrMpz-4">
-          <mxGeometry x="105.5" y="21" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
