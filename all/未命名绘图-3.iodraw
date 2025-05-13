@@ -19,7 +19,7 @@
         <mxCell id="zMkj9Olkd8WzaMIQrMpz-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6DpLvLA1x2g9YwhH6toP-1" target="zMkj9Olkd8WzaMIQrMpz-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6DpLvLA1x2g9YwhH6toP-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;构建阿里云对象存储服务的&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;URL地址&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="6DpLvLA1x2g9YwhH6toP-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;构建阿里云对象存储服务的&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;URL&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;地址&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="97.5" y="170" width="245" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6DpLvLA1x2g9YwhH6toP-17" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -34,7 +34,7 @@
         <mxCell id="zMkj9Olkd8WzaMIQrMpz-2" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;上传文件&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="132.5" y="340" width="175" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zMkj9Olkd8WzaMIQrMpz-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;返回文件的URL地址&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zMkj9Olkd8WzaMIQrMpz-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;返回文件的&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;URL&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;地址&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="132.5" y="440" width="175" height="50" as="geometry" />
         </mxCell>
       </root>
