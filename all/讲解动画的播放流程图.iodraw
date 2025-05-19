@@ -36,19 +36,17 @@
         <mxCell id="d4Zc4BFdPExF3td0lfgV-25" value="&lt;font&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="90" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d4Zc4BFdPExF3td0lfgV-29" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="1290" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="I6kLQMqIPHm7VV6S4t7o-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;将动画状态设置为&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;站立状态&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="730" y="465" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="I6kLQMqIPHm7VV6S4t7o-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I6kLQMqIPHm7VV6S4t7o-7" target="d4Zc4BFdPExF3td0lfgV-29" edge="1">
+        <mxCell id="I6kLQMqIPHm7VV6S4t7o-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I6kLQMqIPHm7VV6S4t7o-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="815" y="1260" />
               <mxPoint x="220" y="1260" />
             </Array>
             <mxPoint x="595" y="921" as="sourcePoint" />
+            <mxPoint x="220" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yMKcdQye-1iRp8KRsEaN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yMKcdQye-1iRp8KRsEaN-3" target="yMKcdQye-1iRp8KRsEaN-4" edge="1">
@@ -141,9 +139,9 @@
         <mxCell id="yMKcdQye-1iRp8KRsEaN-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yMKcdQye-1iRp8KRsEaN-29" target="yMKcdQye-1iRp8KRsEaN-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yMKcdQye-1iRp8KRsEaN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yMKcdQye-1iRp8KRsEaN-29" target="d4Zc4BFdPExF3td0lfgV-29" edge="1">
+        <mxCell id="yMKcdQye-1iRp8KRsEaN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yMKcdQye-1iRp8KRsEaN-29" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="1290" as="targetPoint" />
+            <mxPoint x="220" y="1290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="450" y="1080" />
               <mxPoint x="450" y="1260" />
@@ -154,8 +152,10 @@
         <mxCell id="yMKcdQye-1iRp8KRsEaN-29" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;当前动画为讲解动画？&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="109.69" y="1030" width="219.38" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yMKcdQye-1iRp8KRsEaN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yMKcdQye-1iRp8KRsEaN-31" target="d4Zc4BFdPExF3td0lfgV-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="yMKcdQye-1iRp8KRsEaN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yMKcdQye-1iRp8KRsEaN-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yMKcdQye-1iRp8KRsEaN-31" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;更新混合参数比例&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="135.63" y="1170" width="168.75" height="60" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="329.07" y="1050" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ttmGLFHHHOD7QQ5VVta4-0" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="-10" width="110" height="50" as="geometry" />
+          <mxGeometry x="164.38" y="-20" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ttmGLFHHHOD7QQ5VVta4-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;结束&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="980.0000000000002" y="780" width="110" height="50" as="geometry" />
