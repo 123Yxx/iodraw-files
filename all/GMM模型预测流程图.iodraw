@@ -82,9 +82,6 @@
         <mxCell id="0ntSfOyItUwpL684CbM6-19" value="&lt;font face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="97.5" y="210" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pf22uLDkvvfWhXN_thNb-0" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="-70" width="110" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
