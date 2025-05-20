@@ -142,9 +142,6 @@
             <mxPoint x="640" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OxJyhmV1RQg8GzRagCeW-48" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;网络请求&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="730" y="720" width="100" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
