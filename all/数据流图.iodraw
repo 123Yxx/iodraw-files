@@ -130,7 +130,7 @@
         <mxCell id="OxJyhmV1RQg8GzRagCeW-43" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;数据库&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="740" y="800" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OxJyhmV1RQg8GzRagCeW-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OxJyhmV1RQg8GzRagCeW-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.361;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OxJyhmV1RQg8GzRagCeW-36" target="OxJyhmV1RQg8GzRagCeW-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="830" as="sourcePoint" />
             <mxPoint x="640" y="780" as="targetPoint" />
