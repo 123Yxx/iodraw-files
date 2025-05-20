@@ -25,7 +25,7 @@
         <mxCell id="OxJyhmV1RQg8GzRagCeW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OxJyhmV1RQg8GzRagCeW-3" target="OxJyhmV1RQg8GzRagCeW-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OxJyhmV1RQg8GzRagCeW-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;缓存&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OxJyhmV1RQg8GzRagCeW-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;此电脑&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="150" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OxJyhmV1RQg8GzRagCeW-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;WAV&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;音频文件&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;SRT&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;字幕文件&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -47,7 +47,7 @@
           <mxGeometry x="810" y="150" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OxJyhmV1RQg8GzRagCeW-18" value="&lt;font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;所有文件&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="160" width="100" height="30" as="geometry" />
+          <mxGeometry x="680" y="160" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
