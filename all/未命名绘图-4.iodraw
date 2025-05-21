@@ -58,8 +58,8 @@
         <mxCell id="uw5EGWRUYIyuPbHKrVeh-21" value="获取下一个展柜" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="30" y="610" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="uw5EGWRUYIyuPbHKrVeh-25" value="获取展柜类型颜色" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="440" y="780" width="156" height="54" as="geometry" />
+        <mxCell id="uw5EGWRUYIyuPbHKrVeh-25" value="绘制动态预览层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="450" y="610" width="156" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
