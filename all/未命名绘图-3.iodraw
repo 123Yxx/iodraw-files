@@ -19,14 +19,17 @@
         <mxCell id="pzvgd8xyixWlPSLlpFeP-9" value="提取展柜和轮廓" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="373" y="520" width="172" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="g0bNUefTHeeD0vdP9TL5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-10" target="pzvgd8xyixWlPSLlpFeP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-10" value="构建轮廓多边形对象" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="482" y="652" width="204" height="54" as="geometry" />
+          <mxGeometry x="357" y="680" width="204" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-11" target="pzvgd8xyixWlPSLlpFeP-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-11" value="创建LayObject实例" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="235" y="652" width="197" height="54" as="geometry" />
+          <mxGeometry x="360.5" y="598" width="197" height="54" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-12" value="数据完整性校验" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="387.5" y="780" width="143" height="39" as="geometry" />
@@ -94,13 +97,6 @@
         <mxCell id="pzvgd8xyixWlPSLlpFeP-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-9" target="pzvgd8xyixWlPSLlpFeP-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.83;entryY=-0.01;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-10" target="pzvgd8xyixWlPSLlpFeP-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="584" y="731" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-7" target="pzvgd8xyixWlPSLlpFeP-13" edge="1">
