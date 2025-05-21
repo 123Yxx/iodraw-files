@@ -141,6 +141,9 @@
         <mxCell id="g0bNUefTHeeD0vdP9TL5-11" value="显示完整布局" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="-298" y="1336" width="172" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="g0bNUefTHeeD0vdP9TL5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g0bNUefTHeeD0vdP9TL5-12" target="g0bNUefTHeeD0vdP9TL5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-12" value="显示完整布局" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="258" y="1200" width="172" height="54" as="geometry" />
         </mxCell>
@@ -156,8 +159,8 @@
         <mxCell id="g0bNUefTHeeD0vdP9TL5-23" value="弹出错误对话框" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="560" y="1135" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="g0bNUefTHeeD0vdP9TL5-24" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="650" y="217.5" width="89" height="39" as="geometry" />
+        <mxCell id="g0bNUefTHeeD0vdP9TL5-24" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="299.5" y="1370" width="89" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
