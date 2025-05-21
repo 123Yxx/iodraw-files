@@ -38,7 +38,7 @@
         <mxCell id="g0bNUefTHeeD0vdP9TL5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-10" target="g0bNUefTHeeD0vdP9TL5-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-10" value="创建LayObject实例" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="pzvgd8xyixWlPSLlpFeP-10" value="创建LayObject实例" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="243" y="640" width="204" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-11" target="pzvgd8xyixWlPSLlpFeP-10">
