@@ -32,7 +32,7 @@
           <mxGeometry x="241" y="350" width="208" height="54" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-7" value="加载图像文件" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-282" y="652" width="156" height="54" as="geometry" />
+          <mxGeometry x="-20" y="620" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-9" value="提取展柜和轮廓" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="259" y="440" width="172" height="54" as="geometry" />
@@ -101,16 +101,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-9" target="pzvgd8xyixWlPSLlpFeP-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-7" target="pzvgd8xyixWlPSLlpFeP-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-13" target="pzvgd8xyixWlPSLlpFeP-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
