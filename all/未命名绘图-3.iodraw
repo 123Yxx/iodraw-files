@@ -18,7 +18,7 @@
           <mxGeometry x="248" y="180" width="192" height="114" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-6" value="读取并解析JSON数据" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="355" y="421" width="208" height="54" as="geometry" />
+          <mxGeometry x="241" y="370" width="208" height="54" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-7" value="加载图像文件" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="28" y="652" width="156" height="54" as="geometry" />
