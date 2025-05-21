@@ -154,7 +154,7 @@
           <mxGeometry x="-298" y="1336" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-12" value="显示完整布局" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="125" y="1360" width="172" height="54" as="geometry" />
+          <mxGeometry x="133.5" y="1360" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;图像文件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="163" y="200" width="80" height="30" as="geometry" />
@@ -162,8 +162,8 @@
         <mxCell id="g0bNUefTHeeD0vdP9TL5-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="954" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g0bNUefTHeeD0vdP9TL5-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="964" width="80" height="30" as="geometry" />
+        <mxCell id="g0bNUefTHeeD0vdP9TL5-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="870" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
