@@ -16,10 +16,7 @@
         <mxCell id="pzvgd8xyixWlPSLlpFeP-7" value="加载图像文件" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="28" y="652" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-8" value="提取轮廓点数据" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="498" y="548" width="172" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-9" value="提取展柜元数据" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="pzvgd8xyixWlPSLlpFeP-9" value="提取展柜和轮廓" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="247" y="548" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-10" value="构建轮廓多边形对象" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
@@ -86,9 +83,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-28" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-6" target="pzvgd8xyixWlPSLlpFeP-8" edge="1">
+        <mxCell id="pzvgd8xyixWlPSLlpFeP-28" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="584" y="548" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-29" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-6" target="pzvgd8xyixWlPSLlpFeP-9" edge="1">
@@ -96,9 +94,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-8" target="pzvgd8xyixWlPSLlpFeP-10" edge="1">
+        <mxCell id="pzvgd8xyixWlPSLlpFeP-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" target="pzvgd8xyixWlPSLlpFeP-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="584" y="602" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-9" target="pzvgd8xyixWlPSLlpFeP-11" edge="1">
