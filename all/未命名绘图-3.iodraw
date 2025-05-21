@@ -14,14 +14,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g0bNUefTHeeD0vdP9TL5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-5" target="pzvgd8xyixWlPSLlpFeP-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="50" y="237" />
-              <mxPoint x="50" y="652" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-5" value="选择文件类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="248" y="180" width="192" height="114" as="geometry" />
         </mxCell>
@@ -53,13 +45,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-13" value="执行图像预处理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="760" width="172" height="54" as="geometry" />
+          <mxGeometry x="-28" y="720" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-14" target="g0bNUefTHeeD0vdP9TL5-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-14" value="生成透明背景层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="911" width="172" height="54" as="geometry" />
+          <mxGeometry x="-28" y="871" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-16" target="pzvgd8xyixWlPSLlpFeP-17">
           <mxGeometry relative="1" as="geometry" />
@@ -89,7 +81,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-20" value="合并到画布图层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="1189" width="172" height="54" as="geometry" />
+          <mxGeometry x="-28" y="1149" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-3" target="g0bNUefTHeeD0vdP9TL5-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -127,7 +119,7 @@
           <mxGeometry x="350" y="300" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-11" value="显示完整布局" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="1290" width="172" height="54" as="geometry" />
+          <mxGeometry x="-28" y="1250" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g0bNUefTHeeD0vdP9TL5-12" target="g0bNUefTHeeD0vdP9TL5-24">
           <mxGeometry relative="1" as="geometry" />
@@ -162,7 +154,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-27" value="缓存到bg_pix对象" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="1046" width="172" height="54" as="geometry" />
+          <mxGeometry x="-28" y="1006" width="172" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
