@@ -1,0 +1,25 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="hcuwuyMNMOHobFAn6Hbi">
+    <mxGraphModel dx="2025" dy="1376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AGq4lX2xRUvAHW1eGYmJ-2" value="操作类型？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="208" y="124" width="192" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="AGq4lX2xRUvAHW1eGYmJ-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" parent="1" target="AGq4lX2xRUvAHW1eGYmJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="304" y="74" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGq4lX2xRUvAHW1eGYmJ-35" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=宋体;fontSize=18;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="250" y="30" width="108" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RCdIrBHAuu0I1G6L0Cbs-3" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=宋体;fontSize=18;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="250" y="750" width="108" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
