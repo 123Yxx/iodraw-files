@@ -59,14 +59,14 @@
         <mxCell id="pzvgd8xyixWlPSLlpFeP-18" value="清除临时数据" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="379" y="1089" width="156" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="g0bNUefTHeeD0vdP9TL5-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-19" target="g0bNUefTHeeD0vdP9TL5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-19" value="触发重绘信号" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="141" y="1193" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-20" value="合并到画布图层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="-290" y="1193" width="172" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-21" value="显示完整布局" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="49" y="1297" width="121" height="39" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-22" value="弹出错误对话框" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="386" y="1200" width="143" height="39" as="geometry" />
@@ -135,21 +135,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.91;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="219" y="1272" />
-            </Array>
-            <mxPoint x="155.11000000000058" y="1297" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.08;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-20" target="pzvgd8xyixWlPSLlpFeP-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="106" y="1272" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-18" target="pzvgd8xyixWlPSLlpFeP-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -179,7 +164,7 @@
           <mxGeometry x="-298" y="1336" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-12" value="显示完整布局" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="-288" y="1346" width="172" height="54" as="geometry" />
+          <mxGeometry x="125" y="1360" width="172" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
