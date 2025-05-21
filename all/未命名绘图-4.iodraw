@@ -17,13 +17,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uw5EGWRUYIyuPbHKrVeh-1" value="情况画布缓存区" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="226" y="140" width="156" height="54" as="geometry" />
+          <mxGeometry x="226" y="200" width="156" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="uw5EGWRUYIyuPbHKrVeh-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uw5EGWRUYIyuPbHKrVeh-1">
+          <mxGeometry x="100" y="31" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uw5EGWRUYIyuPbHKrVeh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uw5EGWRUYIyuPbHKrVeh-4" target="uw5EGWRUYIyuPbHKrVeh-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uw5EGWRUYIyuPbHKrVeh-4" value="绘制轮廓多边形" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="226" y="260" width="156" height="54" as="geometry" />
+          <mxGeometry x="226" y="280" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="uw5EGWRUYIyuPbHKrVeh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uw5EGWRUYIyuPbHKrVeh-9" target="uw5EGWRUYIyuPbHKrVeh-14">
           <mxGeometry relative="1" as="geometry" />
