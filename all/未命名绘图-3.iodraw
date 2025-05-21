@@ -26,7 +26,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-7" value="加载图像文件" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="480" width="156" height="54" as="geometry" />
+          <mxGeometry x="-20" y="340" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UzTRRGWMDBWldnMTg0Hc-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="pzvgd8xyixWlPSLlpFeP-7">
+          <mxGeometry x="93" y="18" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-9" value="提取展柜和轮廓" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="258" y="420" width="172" height="54" as="geometry" />
@@ -47,13 +50,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-13" value="执行图像预处理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-28" y="590" width="172" height="54" as="geometry" />
+          <mxGeometry x="-28" y="430" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="UzTRRGWMDBWldnMTg0Hc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-14" target="pzvgd8xyixWlPSLlpFeP-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-14" value="生成透明背景层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-28" y="690" width="172" height="54" as="geometry" />
+          <mxGeometry x="-28" y="520" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-16" target="pzvgd8xyixWlPSLlpFeP-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
