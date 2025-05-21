@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Pli1s4wGnjT2C9b1qodk">
-    <mxGraphModel dx="1623" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2418" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,16 +68,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-17" value="更新House数据模型" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="244.5" y="1010" width="199" height="54" as="geometry" />
+          <mxGeometry x="244.5" y="840" width="199" height="54" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-18" value="清除临时数据" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1010" width="156" height="54" as="geometry" />
+          <mxGeometry x="560" y="840" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-19" target="g0bNUefTHeeD0vdP9TL5-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-19" value="触发重绘信号" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="266" y="1100" width="156" height="54" as="geometry" />
+          <mxGeometry x="266" y="930" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-20" target="g0bNUefTHeeD0vdP9TL5-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -105,7 +105,7 @@
         <mxCell id="pzvgd8xyixWlPSLlpFeP-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;entryDx=0;entryDy=0;" parent="1" source="pzvgd8xyixWlPSLlpFeP-18" target="g0bNUefTHeeD0vdP9TL5-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="638.4999999999995" y="1181" as="targetPoint" />
+            <mxPoint x="638.4999999999995" y="1011" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-1" value="用户点击导入按钮" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
@@ -129,13 +129,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-12" value="显示完整布局" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="258" y="1200" width="172" height="54" as="geometry" />
+          <mxGeometry x="258" y="1030" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;图像文件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="163" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="270" y="954" width="80" height="30" as="geometry" />
+          <mxGeometry x="270" y="790" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="450" y="700" width="80" height="30" as="geometry" />
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-23" value="弹出错误对话框" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1135" width="156" height="54" as="geometry" />
+          <mxGeometry x="560" y="965" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-24" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="299.5" y="1370" width="89" height="39" as="geometry" />
