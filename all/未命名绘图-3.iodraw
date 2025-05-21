@@ -19,10 +19,8 @@
         <mxCell id="pzvgd8xyixWlPSLlpFeP-9" value="提取展柜和轮廓" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="373" y="500" width="172" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="g0bNUefTHeeD0vdP9TL5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="459" y="780" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="g0bNUefTHeeD0vdP9TL5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-10" target="g0bNUefTHeeD0vdP9TL5-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-10" value="创建LayObject实例" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="357" y="660" width="204" height="54" as="geometry" />
@@ -113,12 +111,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" target="pzvgd8xyixWlPSLlpFeP-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="459" y="818.9999999999998" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-38" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-16" target="pzvgd8xyixWlPSLlpFeP-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -171,7 +163,7 @@
           <mxGeometry x="276" y="100" width="138" height="41" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-4" value="数据完整性校验" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="580" y="750" width="172" height="54" as="geometry" />
+          <mxGeometry x="373" y="750" width="172" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
