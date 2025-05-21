@@ -49,8 +49,11 @@
         <mxCell id="pzvgd8xyixWlPSLlpFeP-11" value="构建轮廓多边形对象" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="246.5" y="550" width="197" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="g0bNUefTHeeD0vdP9TL5-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-13" target="pzvgd8xyixWlPSLlpFeP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-13" value="执行图像预处理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="756" width="172" height="54" as="geometry" />
+          <mxGeometry x="-290" y="760" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-14" value="生成透明背景层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="-290" y="911" width="172" height="54" as="geometry" />
@@ -80,7 +83,7 @@
           <mxGeometry x="267" y="1100" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-20" value="合并到画布图层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="1193" width="172" height="54" as="geometry" />
+          <mxGeometry x="-290" y="1189" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-3" target="g0bNUefTHeeD0vdP9TL5-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -118,7 +121,7 @@
           <mxGeometry x="350" y="300" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-11" value="显示完整布局" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="-298" y="1336" width="172" height="54" as="geometry" />
+          <mxGeometry x="-290" y="1290" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g0bNUefTHeeD0vdP9TL5-12" target="g0bNUefTHeeD0vdP9TL5-24">
           <mxGeometry relative="1" as="geometry" />
