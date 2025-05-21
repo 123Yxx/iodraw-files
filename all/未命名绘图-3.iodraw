@@ -31,10 +31,8 @@
         <mxCell id="pzvgd8xyixWlPSLlpFeP-9" value="提取展柜和轮廓" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="258" y="440" width="172" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="g0bNUefTHeeD0vdP9TL5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="343.9999999999998" y="740" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="UzTRRGWMDBWldnMTg0Hc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-10" target="pzvgd8xyixWlPSLlpFeP-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-10" value="创建LayObject实例" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="242" y="636" width="204" height="54" as="geometry" />
@@ -112,11 +110,6 @@
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-1" value="用户点击导入按钮" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="276" y="110" width="138" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="g0bNUefTHeeD0vdP9TL5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" target="pzvgd8xyixWlPSLlpFeP-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="343.9999999999998" y="796" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-8" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;JSON文件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="350" y="300" width="90" height="30" as="geometry" />
