@@ -28,6 +28,9 @@
         <mxCell id="uw5EGWRUYIyuPbHKrVeh-9" value="获取展柜数据" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="226" y="370" width="156" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="uw5EGWRUYIyuPbHKrVeh-13" value="xiayig" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="226" y="470" width="156" height="54" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
