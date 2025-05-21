@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Pli1s4wGnjT2C9b1qodk">
-    <mxGraphModel dx="2138" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2852" dy="1376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="g0bNUefTHeeD0vdP9TL5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-5" target="pzvgd8xyixWlPSLlpFeP-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UzTRRGWMDBWldnMTg0Hc-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-5" target="pzvgd8xyixWlPSLlpFeP-6">
+        <mxCell id="UzTRRGWMDBWldnMTg0Hc-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pzvgd8xyixWlPSLlpFeP-5" target="pzvgd8xyixWlPSLlpFeP-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-5" value="选择文件类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=宋体;" parent="1" vertex="1">
@@ -31,7 +31,7 @@
         <mxCell id="pzvgd8xyixWlPSLlpFeP-9" value="提取展柜和轮廓" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="258" y="420" width="172" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="UzTRRGWMDBWldnMTg0Hc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-10" target="pzvgd8xyixWlPSLlpFeP-16">
+        <mxCell id="UzTRRGWMDBWldnMTg0Hc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pzvgd8xyixWlPSLlpFeP-10" target="pzvgd8xyixWlPSLlpFeP-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-10" value="创建LayObject实例" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
@@ -49,7 +49,7 @@
         <mxCell id="pzvgd8xyixWlPSLlpFeP-13" value="执行图像预处理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="-28" y="510" width="172" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="UzTRRGWMDBWldnMTg0Hc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-14" target="pzvgd8xyixWlPSLlpFeP-20">
+        <mxCell id="UzTRRGWMDBWldnMTg0Hc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pzvgd8xyixWlPSLlpFeP-14" target="pzvgd8xyixWlPSLlpFeP-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-14" value="生成透明背景层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
