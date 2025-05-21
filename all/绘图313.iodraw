@@ -46,11 +46,9 @@
             <mxPoint x="304" y="74" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AGq4lX2xRUvAHW1eGYmJ-19" value="路线生成" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" parent="1" source="AGq4lX2xRUvAHW1eGYmJ-2" target="AGq4lX2xRUvAHW1eGYmJ-3" edge="1">
+        <mxCell id="AGq4lX2xRUvAHW1eGYmJ-19" value="路线生成" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" parent="1" source="AGq4lX2xRUvAHW1eGYmJ-2" target="AGq4lX2xRUvAHW1eGYmJ-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="98" y="279" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AGq4lX2xRUvAHW1eGYmJ-20" value="总览分析" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" parent="1" source="AGq4lX2xRUvAHW1eGYmJ-2" target="AGq4lX2xRUvAHW1eGYmJ-4" edge="1">
