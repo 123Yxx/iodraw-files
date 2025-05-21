@@ -82,9 +82,6 @@
         <mxCell id="pzvgd8xyixWlPSLlpFeP-19" value="触发重绘信号" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="267" y="1100" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="g0bNUefTHeeD0vdP9TL5-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-20" target="g0bNUefTHeeD0vdP9TL5-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-20" value="合并到画布图层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="-290" y="1193" width="172" height="54" as="geometry" />
         </mxCell>
@@ -101,16 +98,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-9" target="pzvgd8xyixWlPSLlpFeP-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-14" target="pzvgd8xyixWlPSLlpFeP-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" parent="1" source="pzvgd8xyixWlPSLlpFeP-15" target="pzvgd8xyixWlPSLlpFeP-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -164,6 +151,9 @@
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-24" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="299.5" y="1370" width="89" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="g0bNUefTHeeD0vdP9TL5-27" value="合并到画布图层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1203" width="172" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
