@@ -120,8 +120,8 @@
         <mxCell id="g0bNUefTHeeD0vdP9TL5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="g0bNUefTHeeD0vdP9TL5-11" target="g0bNUefTHeeD0vdP9TL5-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="58" y="1320" />
-              <mxPoint x="344" y="1320" />
+              <mxPoint x="58" y="1130" />
+              <mxPoint x="344" y="1130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -146,8 +146,8 @@
         <mxCell id="g0bNUefTHeeD0vdP9TL5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="g0bNUefTHeeD0vdP9TL5-23" target="g0bNUefTHeeD0vdP9TL5-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="638" y="1320" />
-              <mxPoint x="344" y="1320" />
+              <mxPoint x="638" y="1130" />
+              <mxPoint x="344" y="1130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -155,7 +155,7 @@
           <mxGeometry x="560" y="965" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-24" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="299.5" y="1370" width="89" height="39" as="geometry" />
+          <mxGeometry x="299.5" y="1170" width="89" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
