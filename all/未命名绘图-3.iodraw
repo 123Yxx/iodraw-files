@@ -7,7 +7,7 @@
         <mxCell id="pzvgd8xyixWlPSLlpFeP-3" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="300.5" y="40" width="89" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="pzvgd8xyixWlPSLlpFeP-5" value="选择文件类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="pzvgd8xyixWlPSLlpFeP-5" value="选择文件类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="228" y="198" width="232" height="150" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-6" value="读取并解析JSON数据" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
