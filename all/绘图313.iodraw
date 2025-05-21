@@ -130,6 +130,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="zrKzpiVr6nJUWn59fdUq-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="148" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
