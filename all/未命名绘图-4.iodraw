@@ -40,6 +40,9 @@
         <mxCell id="uw5EGWRUYIyuPbHKrVeh-15" value="获取展柜类型颜色" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="226" y="610" width="156" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="uw5EGWRUYIyuPbHKrVeh-18" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
