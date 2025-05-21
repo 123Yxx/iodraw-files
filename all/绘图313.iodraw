@@ -11,7 +11,7 @@
           <mxGeometry x="20" y="315" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="AGq4lX2xRUvAHW1eGYmJ-4" value="分析展厅布局数据" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="242" y="315" width="124" height="54" as="geometry" />
+          <mxGeometry x="218" y="315" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="AGq4lX2xRUvAHW1eGYmJ-5" value="量化指标生成" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="432" y="315" width="156" height="54" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="226" y="419" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="AGq4lX2xRUvAHW1eGYmJ-8" value="路径相关指标调整" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="432" y="419" width="178" height="54" as="geometry" />
+          <mxGeometry x="420" y="419" width="180" height="54" as="geometry" />
         </mxCell>
         <mxCell id="AGq4lX2xRUvAHW1eGYmJ-9" value="游览路线生成" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="36" y="523" width="124" height="54" as="geometry" />
