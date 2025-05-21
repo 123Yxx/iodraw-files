@@ -52,6 +52,15 @@
         <mxCell id="uw5EGWRUYIyuPbHKrVeh-19" value="绘制矩形区域" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="226" y="720" width="156" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="uw5EGWRUYIyuPbHKrVeh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uw5EGWRUYIyuPbHKrVeh-21" target="uw5EGWRUYIyuPbHKrVeh-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="108" y="580" />
+              <mxPoint x="110" y="580" />
+              <mxPoint x="110" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uw5EGWRUYIyuPbHKrVeh-21" value="获取下一个展柜" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="30" y="610" width="156" height="54" as="geometry" />
         </mxCell>
