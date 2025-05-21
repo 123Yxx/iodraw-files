@@ -14,6 +14,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="g0bNUefTHeeD0vdP9TL5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-5" target="pzvgd8xyixWlPSLlpFeP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-5" value="选择文件类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="248" y="180" width="192" height="114" as="geometry" />
         </mxCell>
@@ -163,6 +166,9 @@
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-12" value="显示完整布局" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="125" y="1360" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="g0bNUefTHeeD0vdP9TL5-16" value="图像文件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
