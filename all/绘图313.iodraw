@@ -57,11 +57,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AGq4lX2xRUvAHW1eGYmJ-21" value="指标生成" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" parent="1" source="AGq4lX2xRUvAHW1eGYmJ-2" target="AGq4lX2xRUvAHW1eGYmJ-5" edge="1">
+        <mxCell id="AGq4lX2xRUvAHW1eGYmJ-21" value="指标生成" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" parent="1" source="AGq4lX2xRUvAHW1eGYmJ-2" target="AGq4lX2xRUvAHW1eGYmJ-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="279" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AGq4lX2xRUvAHW1eGYmJ-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" parent="1" source="AGq4lX2xRUvAHW1eGYmJ-3" target="AGq4lX2xRUvAHW1eGYmJ-6" edge="1">
