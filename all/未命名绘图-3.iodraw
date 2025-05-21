@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-7" value="加载图像文件" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="340" width="156" height="54" as="geometry" />
+          <mxGeometry x="-20" y="360" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="UzTRRGWMDBWldnMTg0Hc-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="pzvgd8xyixWlPSLlpFeP-7">
           <mxGeometry x="93" y="18" width="50" height="30" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pzvgd8xyixWlPSLlpFeP-13" value="执行图像预处理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-28" y="480" width="172" height="54" as="geometry" />
+          <mxGeometry x="-28" y="510" width="172" height="54" as="geometry" />
         </mxCell>
         <mxCell id="UzTRRGWMDBWldnMTg0Hc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzvgd8xyixWlPSLlpFeP-14" target="pzvgd8xyixWlPSLlpFeP-20">
           <mxGeometry relative="1" as="geometry" />
@@ -155,7 +155,7 @@
           <mxGeometry x="560" y="965" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="g0bNUefTHeeD0vdP9TL5-24" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="299.5" y="1170" width="89" height="39" as="geometry" />
+          <mxGeometry x="299.5" y="1200" width="89" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
