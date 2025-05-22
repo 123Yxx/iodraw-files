@@ -266,7 +266,7 @@
         <mxCell id="NMWRGIc0_J2saJKPQoqW-53" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;是&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1208" y="307" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NMWRGIc0_J2saJKPQoqW-54" value="操作类型为&#xa;路线生成？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-54" value="操作类型为&#xa;指标生成？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1360" y="315" width="192" height="96" as="geometry" />
         </mxCell>
       </root>
