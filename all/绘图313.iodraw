@@ -132,9 +132,6 @@
         <mxCell id="NMWRGIc0_J2saJKPQoqW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-4" target="NMWRGIc0_J2saJKPQoqW-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NMWRGIc0_J2saJKPQoqW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-4" target="NMWRGIc0_J2saJKPQoqW-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-4" target="NMWRGIc0_J2saJKPQoqW-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -147,17 +144,11 @@
         <mxCell id="NMWRGIc0_J2saJKPQoqW-6" value="分析展厅布局数据" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="868" y="295" width="172" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="NMWRGIc0_J2saJKPQoqW-7" value="量化指标生成" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1082" y="295" width="156" height="54" as="geometry" />
-        </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-8" value="路径点优化" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="670" y="399" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-9" value="判断展厅类型" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="876" y="399" width="156" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="NMWRGIc0_J2saJKPQoqW-10" value="路径相关指标调整" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="399" width="180" height="54" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-11" value="游览路线生成" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="686" y="503" width="124" height="54" as="geometry" />
@@ -165,14 +156,8 @@
         <mxCell id="NMWRGIc0_J2saJKPQoqW-12" value="总览分析显示" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="884" y="503" width="140" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="NMWRGIc0_J2saJKPQoqW-13" value="量化指标归一化处理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1082" y="503" width="156" height="54" as="geometry" />
-        </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-14" value="游览路线绘制" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="670" y="607" width="156" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="NMWRGIc0_J2saJKPQoqW-15" value="实时显示指标值" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="607" width="140" height="54" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" target="NMWRGIc0_J2saJKPQoqW-4">
           <mxGeometry relative="1" as="geometry">
@@ -190,11 +175,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NMWRGIc0_J2saJKPQoqW-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-7" target="NMWRGIc0_J2saJKPQoqW-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-8" target="NMWRGIc0_J2saJKPQoqW-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -205,17 +185,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NMWRGIc0_J2saJKPQoqW-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-10" target="NMWRGIc0_J2saJKPQoqW-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-11" target="NMWRGIc0_J2saJKPQoqW-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NMWRGIc0_J2saJKPQoqW-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-13" target="NMWRGIc0_J2saJKPQoqW-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -237,22 +207,46 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NMWRGIc0_J2saJKPQoqW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-15" target="NMWRGIc0_J2saJKPQoqW-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1160" y="690" />
-              <mxPoint x="954" y="690" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-30" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;路线生成&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="120" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NMWRGIc0_J2saJKPQoqW-31" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;指标生成&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="120" width="78" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-32" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;总览分析&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="954" y="210" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NMWRGIc0_J2saJKPQoqW-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="332" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-34" value="量化指标生成" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1412" y="475" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-35" value="路径相关指标调整" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="579" width="180" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-36" value="量化指标归一化处理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1412" y="683" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-37" value="实时显示指标值" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="787" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-34" target="NMWRGIc0_J2saJKPQoqW-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-35" target="NMWRGIc0_J2saJKPQoqW-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-36" target="NMWRGIc0_J2saJKPQoqW-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-41" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;指标生成&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="300" width="78" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
