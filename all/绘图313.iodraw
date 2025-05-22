@@ -193,16 +193,16 @@
           <mxGeometry x="954" y="200" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-34" value="量化指标生成" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="856" y="1125" width="156" height="54" as="geometry" />
+          <mxGeometry x="1378" y="480" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-35" value="路径相关指标调整" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="844" y="1229" width="180" height="54" as="geometry" />
+          <mxGeometry x="1366" y="584" width="180" height="54" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-36" value="量化指标归一化处理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="856" y="1333" width="156" height="54" as="geometry" />
+          <mxGeometry x="1378" y="688" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-37" value="实时显示指标值" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="864" y="1437" width="140" height="54" as="geometry" />
+          <mxGeometry x="1386" y="792" width="140" height="54" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-34" target="NMWRGIc0_J2saJKPQoqW-35">
           <mxGeometry relative="1" as="geometry">
@@ -261,8 +261,14 @@
         <mxCell id="NMWRGIc0_J2saJKPQoqW-53" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;是&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1208" y="307" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-54" target="NMWRGIc0_J2saJKPQoqW-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-54" value="操作类型为&#xa;指标生成？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1360" y="315" width="192" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-57" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;是&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1218" y="317" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
