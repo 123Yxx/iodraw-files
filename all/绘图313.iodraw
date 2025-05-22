@@ -135,6 +135,9 @@
         <mxCell id="NMWRGIc0_J2saJKPQoqW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-4" target="NMWRGIc0_J2saJKPQoqW-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-4" target="NMWRGIc0_J2saJKPQoqW-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-4" value="操作类型为&#xa;总览分析？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="858" y="104" width="192" height="96" as="geometry" />
         </mxCell>
@@ -247,6 +250,9 @@
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-41" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;指标生成&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1380" y="300" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-42" value="操作类型为&#xa;总览分析？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="210" width="192" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
