@@ -268,7 +268,13 @@
           <mxGeometry x="1360" y="315" width="192" height="96" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-57" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;是&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1218" y="317" width="60" height="30" as="geometry" />
+          <mxGeometry x="1460" y="411" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-58" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;否&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="230" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-59" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;否&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="319" width="78" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
