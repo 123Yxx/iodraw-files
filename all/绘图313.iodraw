@@ -190,7 +190,7 @@
           <mxGeometry x="780" y="120" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-32" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;是&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="954" y="210" width="78" height="30" as="geometry" />
+          <mxGeometry x="954" y="200" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NMWRGIc0_J2saJKPQoqW-34">
           <mxGeometry relative="1" as="geometry">
@@ -227,6 +227,9 @@
         <mxCell id="NMWRGIc0_J2saJKPQoqW-41" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;指标生成&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="824" y="950" width="78" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-42" target="NMWRGIc0_J2saJKPQoqW-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-42" value="操作类型为&#xa;路线生成？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1110" y="210" width="192" height="96" as="geometry" />
         </mxCell>
@@ -234,16 +237,16 @@
           <mxGeometry x="1050" y="120" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-45" value="路径点更新" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="670" y="295" width="156" height="54" as="geometry" />
+          <mxGeometry x="1128" y="349" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-46" value="路径点优化" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="670" y="399" width="156" height="54" as="geometry" />
+          <mxGeometry x="1128" y="453" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-47" value="游览路线生成" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="686" y="503" width="124" height="54" as="geometry" />
+          <mxGeometry x="1144" y="557" width="124" height="54" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-48" value="游览路线绘制" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="670" y="607" width="156" height="54" as="geometry" />
+          <mxGeometry x="1128" y="661" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-45" target="NMWRGIc0_J2saJKPQoqW-46">
           <mxGeometry relative="1" as="geometry">
@@ -259,6 +262,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-53" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;是&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="964" y="210" width="78" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
