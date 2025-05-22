@@ -251,8 +251,11 @@
         <mxCell id="NMWRGIc0_J2saJKPQoqW-41" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;指标生成&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1380" y="300" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NMWRGIc0_J2saJKPQoqW-42" value="操作类型为&#xa;总览分析？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-42" value="操作类型为&#xa;路线生成？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1110" y="210" width="192" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-44" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;是&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="964" y="220" width="78" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
