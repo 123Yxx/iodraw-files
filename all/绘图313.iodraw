@@ -74,6 +74,11 @@
         <mxCell id="NMWRGIc0_J2saJKPQoqW-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-54" target="NMWRGIc0_J2saJKPQoqW-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NMWRGIc0_J2saJKPQoqW-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1740" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-54" value="操作类型为&#xa;指标生成？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1360" y="290" width="192" height="96" as="geometry" />
         </mxCell>
@@ -82,6 +87,9 @@
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-58" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;否&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1300" y="230" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMWRGIc0_J2saJKPQoqW-59" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;否&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="290" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NMWRGIc0_J2saJKPQoqW-60" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=宋体;fontSize=18;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="900" y="870" width="108" height="60" as="geometry" />
