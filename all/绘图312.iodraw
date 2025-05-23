@@ -387,7 +387,7 @@
           <mxGeometry x="2371" y="622.5" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="cViWDRoQUq0nN-eY_QHi-116" value="取消创建" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="2580" y="922.5" width="124" height="54" as="geometry" />
+          <mxGeometry x="2580" y="930" width="124" height="54" as="geometry" />
         </mxCell>
         <mxCell id="cViWDRoQUq0nN-eY_QHi-117" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=18;fontStyle=0" edge="1" parent="1" source="cViWDRoQUq0nN-eY_QHi-112" target="cViWDRoQUq0nN-eY_QHi-113">
           <mxGeometry relative="1" as="geometry">
@@ -404,10 +404,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cViWDRoQUq0nN-eY_QHi-123" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;尺寸合法？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="2360" y="750" width="185" height="100" as="geometry" />
+          <mxGeometry x="2356.5" y="750" width="185" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cViWDRoQUq0nN-eY_QHi-124" value="创建展柜" style="whiteSpace=wrap;strokeWidth=2;fontFamily=宋体;fontSize=18;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="2390.5" y="930" width="124" height="54" as="geometry" />
+          <mxGeometry x="2387" y="930" width="124" height="54" as="geometry" />
         </mxCell>
         <mxCell id="cViWDRoQUq0nN-eY_QHi-126" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2454.5" y="845" width="60" height="30" as="geometry" />
