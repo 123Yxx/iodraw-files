@@ -406,6 +406,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cViWDRoQUq0nN-eY_QHi-70" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
