@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="O3Ocj0wG_hETNp7YuMXb">
-    <mxGraphModel dx="2476" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -386,19 +386,19 @@
         <mxCell id="cViWDRoQUq0nN-eY_QHi-47" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=宋体;fontStyle=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1483.5" y="1130" width="121" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="cViWDRoQUq0nN-eY_QHi-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cViWDRoQUq0nN-eY_QHi-48" target="cViWDRoQUq0nN-eY_QHi-49">
+        <mxCell id="cViWDRoQUq0nN-eY_QHi-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="cViWDRoQUq0nN-eY_QHi-48" target="cViWDRoQUq0nN-eY_QHi-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cViWDRoQUq0nN-eY_QHi-48" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;操作模式为&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;轮廓绘制？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cViWDRoQUq0nN-eY_QHi-48" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;操作模式为&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;轮廓绘制？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="2060" y="161" width="185" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cViWDRoQUq0nN-eY_QHi-49" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;操作模式为&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;展柜操作？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cViWDRoQUq0nN-eY_QHi-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;操作模式为&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;展柜操作？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="2250" y="290" width="185" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cViWDRoQUq0nN-eY_QHi-50" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;操作模式为&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;批量操作？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cViWDRoQUq0nN-eY_QHi-50" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;操作模式为&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;批量操作？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="2481" y="390" width="185" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cViWDRoQUq0nN-eY_QHi-52" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cViWDRoQUq0nN-eY_QHi-52" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="2245" y="176" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
