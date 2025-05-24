@@ -4,11 +4,10 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="6DpLvLA1x2g9YwhH6toP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="6DpLvLA1x2g9YwhH6toP-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="-10" width="120" height="40" as="geometry" />
+        <mxCell id="6DpLvLA1x2g9YwhH6toP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="6DpLvLA1x2g9YwhH6toP-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="30" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UdKY_W9XLgbzr1cTIZ-E-7" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;后端是否响应？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="132.5" y="270" width="175" height="80" as="geometry" />
@@ -108,7 +107,10 @@
           <mxGeometry x="160" y="830" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wRWTYUZc9TijxcbiqMI5-0" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="10" width="110" height="50" as="geometry" />
+          <mxGeometry x="165" y="-20" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wRWTYUZc9TijxcbiqMI5-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;结束&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="717.0000000000002" y="400" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
