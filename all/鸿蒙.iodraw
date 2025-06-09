@@ -125,13 +125,13 @@
           <mxGeometry x="27" y="69" width="35" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-90" value="穿戴专有业务子系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;textDirection=vertical-lr;" vertex="1" parent="SpEgUiyO-SjfohRXstem-88">
-          <mxGeometry x="54" y="69" width="35" height="280" as="geometry" />
+          <mxGeometry x="80" y="69" width="35" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-91" value="I&lt;div&gt;O&lt;/div&gt;&lt;div&gt;T&lt;/div&gt;&lt;div&gt;专&lt;/div&gt;&lt;div&gt;有&lt;/div&gt;&lt;div&gt;业&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;&lt;div&gt;子&lt;/div&gt;&lt;div&gt;系&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;textDirection=ltr;" vertex="1" parent="SpEgUiyO-SjfohRXstem-88">
-          <mxGeometry x="133" y="69" width="35" height="280" as="geometry" />
+          <mxGeometry x="132" y="69" width="35" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-92" value="... ..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;textDirection=vertical-lr;" vertex="1" parent="SpEgUiyO-SjfohRXstem-88">
-          <mxGeometry x="212" y="69" width="35" height="280" as="geometry" />
+          <mxGeometry x="185" y="69" width="35" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-96" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;硬件服务子系统集&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=36;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1762" y="586" width="425" height="371" as="geometry" />
