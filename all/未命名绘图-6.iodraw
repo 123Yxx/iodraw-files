@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2025" dy="976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2785" dy="1493" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="SpEgUiyO-SjfohRXstem-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="317" y="452" width="859" height="68" as="geometry" />
+          <mxGeometry x="317" y="452" width="842" height="68" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-1" value="&lt;font face=&quot;宋体&quot;&gt;桌面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="469" y="466" width="120" height="40" as="geometry" />
@@ -24,6 +24,27 @@
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-7" value="&lt;font face=&quot;宋体&quot;&gt;...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1017" y="466" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="327" y="462" width="842" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-9" value="&lt;font face=&quot;宋体&quot;&gt;桌面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="479" y="476" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-10" value="&lt;font face=&quot;宋体&quot;&gt;控制栏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="616" y="476" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-11" value="&lt;font face=&quot;宋体&quot;&gt;设置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="753" y="476" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-12" value="&lt;font face=&quot;宋体&quot;&gt;电话&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="476" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-13" value="系统应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="343" y="468.5" width="135" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-14" value="&lt;font face=&quot;宋体&quot;&gt;...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1027" y="476" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
