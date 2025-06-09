@@ -164,7 +164,7 @@
           <mxGeometry x="280" y="1010" width="1030" height="125" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-48" value="KAL(内核抽象层)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=24;" vertex="1" parent="SpEgUiyO-SjfohRXstem-122">
-          <mxGeometry x="386.60788124611065" width="214.77958661057252" height="55" as="geometry" />
+          <mxGeometry x="429.99788124611064" width="214.77958661057252" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-122">
           <mxGeometry y="57" width="1030" height="68" as="geometry" />
