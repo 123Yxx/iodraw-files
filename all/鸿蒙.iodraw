@@ -152,7 +152,7 @@
           <mxGeometry x="343" y="69" width="50" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-113" value="系统服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="241" y="830.5" width="64" height="112" as="geometry" />
+          <mxGeometry x="241" y="830.5" width="41" height="112" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-115" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="586" width="580" height="371" as="geometry" />
