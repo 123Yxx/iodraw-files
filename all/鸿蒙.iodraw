@@ -131,7 +131,7 @@
           <mxGeometry x="132" y="69" width="35" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-92" value="... ..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;textDirection=vertical-lr;" vertex="1" parent="SpEgUiyO-SjfohRXstem-88">
-          <mxGeometry x="185" y="69" width="35" height="280" as="geometry" />
+          <mxGeometry x="204" y="69" width="35" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-96" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;硬件服务子系统集&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=36;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1762" y="586" width="425" height="371" as="geometry" />
