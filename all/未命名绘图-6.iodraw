@@ -86,10 +86,10 @@
           <mxGeometry x="654" y="675" width="50" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-54" value="安全子系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="733" y="675" width="50" height="245" as="geometry" />
+          <mxGeometry x="733" y="675" width="50" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-55" value="A&lt;div&gt;I&lt;/div&gt;&lt;div&gt;子&lt;/div&gt;&lt;div&gt;系&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;textDirection=rtl;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="812" y="675" width="50" height="232" as="geometry" />
+          <mxGeometry x="812" y="675" width="50" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-57" value="UI框架" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="349" y="656" width="135" height="42" as="geometry" />
