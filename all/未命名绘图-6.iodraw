@@ -16,6 +16,12 @@
         <mxCell id="SpEgUiyO-SjfohRXstem-3" value="&lt;font face=&quot;宋体&quot;&gt;桌面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="743" y="466" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-4" value="&lt;font face=&quot;宋体&quot;&gt;桌面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="466" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-5" value="&lt;font face=&quot;宋体&quot;&gt;桌面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1057" y="466" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
