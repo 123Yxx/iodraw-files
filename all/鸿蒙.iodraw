@@ -11,7 +11,7 @@
           <mxGeometry width="1565" height="115" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-17" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;扩展应用/三方应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
-          <mxGeometry x="1214.6836982968373" y="23.5" width="274.9221411192214" height="68" as="geometry" />
+          <mxGeometry x="1140" y="23.5" width="349.61" height="68" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-45" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=24;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
           <mxGeometry x="4.569343065693432" y="1.5" width="36" height="112" as="geometry" />
