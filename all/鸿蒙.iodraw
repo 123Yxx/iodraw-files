@@ -1,41 +1,41 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1061" dy="321" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1061" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="SpEgUiyO-SjfohRXstem-118" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="428.5" width="1571" height="115" as="geometry" />
+          <mxGeometry x="235" y="428.5" width="1566" height="115" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
-          <mxGeometry width="1571" height="115" as="geometry" />
+          <mxGeometry width="1566" height="115" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;扩展应用/三方应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
-          <mxGeometry x="1219.3406326034064" y="23.5" width="275.97615571776157" height="68" as="geometry" />
+          <mxGeometry x="1215.4598540145987" y="23.5" width="275.0978102189781" height="68" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
-          <mxGeometry x="62.68710462287105" y="23.5" width="1011.4029197080292" height="68" as="geometry" />
+          <mxGeometry x="62.487591240875915" y="23.5" width="1008.1839416058395" height="68" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;桌面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
-          <mxGeometry x="178.88759124087593" y="37.5" width="116.96496350364964" height="40" as="geometry" />
+          <mxGeometry x="178.3182481751825" y="37.5" width="116.59270072992702" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;控制栏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
-          <mxGeometry x="364.65547445255476" y="37.5" width="116.96496350364964" height="40" as="geometry" />
+          <mxGeometry x="363.49489051094895" y="37.5" width="116.59270072992702" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;设置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
-          <mxGeometry x="550.4233576642337" y="37.5" width="116.96496350364964" height="40" as="geometry" />
+          <mxGeometry x="548.6715328467154" y="37.5" width="116.59270072992702" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;电话&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
-          <mxGeometry x="735.4267639902677" y="37.5" width="116.96496350364964" height="41" as="geometry" />
+          <mxGeometry x="733.0861313868613" y="37.5" width="116.59270072992702" height="41" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-6" value="系统应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
-          <mxGeometry x="68.80291970802921" y="30" width="103.2043795620438" height="55" as="geometry" />
+          <mxGeometry x="68.58394160583943" y="30" width="102.87591240875913" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
-          <mxGeometry x="921.1946472019465" y="37.5" width="116.96496350364964" height="40" as="geometry" />
+          <mxGeometry x="918.2627737226278" y="37.5" width="116.59270072992702" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-45" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
-          <mxGeometry x="4.586861313868614" y="1.5" width="48.92652068126521" height="112" as="geometry" />
+          <mxGeometry x="4.5722627737226285" y="1.5" width="48.77080291970803" height="112" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-119" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="238" y="1010" width="1562" height="150" as="geometry" />
