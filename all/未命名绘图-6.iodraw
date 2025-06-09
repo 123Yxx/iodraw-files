@@ -95,10 +95,7 @@
           <mxGeometry x="349" y="656" width="135" height="42" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-58" value="用户程序框架" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="349" y="711" width="135" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-61" value="分布式任务调度" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="349" y="822" width="135" height="42" as="geometry" />
+          <mxGeometry x="349" y="697" width="135" height="42" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-62" value="分布式数据管理" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="349" y="878" width="135" height="42" as="geometry" />
@@ -114,6 +111,9 @@
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-59" value="Ability框架" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="SpEgUiyO-SjfohRXstem-68">
           <mxGeometry x="29" y="133" width="135" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-61" value="分布式任务调度" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="SpEgUiyO-SjfohRXstem-68">
+          <mxGeometry x="29" y="199" width="135" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
