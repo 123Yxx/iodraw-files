@@ -80,7 +80,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;多模式输入子系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="549" y="714" width="50" height="143" as="geometry" />
+          <mxGeometry x="549" y="714" width="50" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-53" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;多模式输入子系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="628" y="714" width="50" height="232" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
