@@ -50,7 +50,7 @@
           <mxGeometry x="2.283625730994152" y="21" width="36" height="112" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-48" value="KAL(内核抽象层)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=24;" vertex="1" parent="SpEgUiyO-SjfohRXstem-119">
-          <mxGeometry x="460" width="153.53" height="55" as="geometry" />
+          <mxGeometry x="420" width="210" height="55" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-116" value="" style="group;fontFamily=宋体;fontSize=24;" vertex="1" connectable="0" parent="SpEgUiyO-SjfohRXstem-119">
           <mxGeometry x="1173.7836257309941" y="57" width="313.61793372319687" height="68" as="geometry" />
