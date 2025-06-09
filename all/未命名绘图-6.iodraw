@@ -4,84 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="SpEgUiyO-SjfohRXstem-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="238" y="1051" width="2052" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-47" value="内核层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="241" y="1072" width="64" height="112" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="428.5" width="2055" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;扩展应用/三方应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1830" y="452" width="361" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="317" y="452" width="1323" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;桌面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="469" y="466" width="153" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;控制栏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="712" y="466" width="153" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;设置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="955" y="466" width="153" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;电话&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1197" y="466" width="153" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-6" value="系统应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325" y="458.5" width="135" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1440" y="466" width="153" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="317" y="1108" width="1323" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Linux Kernel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="469" y="1122" width="153" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LiteOS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="950" y="1122" width="153" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1430" y="1122" width="153" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-30" value="内核子系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325" y="1114.5" width="135" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-45" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="241" y="430" width="64" height="112" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-48" value="KAL(内核抽象层)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="1051" width="154" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SpEgUiyO-SjfohRXstem-48">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="446" y="790" as="sourcePoint" />
-            <mxPoint x="317" y="1078" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SpEgUiyO-SjfohRXstem-48">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="1079" as="sourcePoint" />
-            <mxPoint x="1637" y="1079" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-116" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1780" y="1108" width="412" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-116">
-          <mxGeometry width="412" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;HDF(硬件驱动框架)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-116">
-          <mxGeometry x="152" y="14" width="241" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-41" value="驱动子系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="SpEgUiyO-SjfohRXstem-116">
-          <mxGeometry x="8" y="6.5" width="135" height="55" as="geometry" />
-        </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-117" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="580" width="2055" height="430" as="geometry" />
         </mxCell>
@@ -189,6 +111,90 @@
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-64" value="公共基础库子系统" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="SpEgUiyO-SjfohRXstem-68">
           <mxGeometry x="29" y="325" width="158" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-118" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="235" y="428.5" width="2055" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
+          <mxGeometry width="2055" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;扩展应用/三方应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
+          <mxGeometry x="1595" y="23.5" width="361" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
+          <mxGeometry x="82" y="23.5" width="1323" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;桌面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
+          <mxGeometry x="234" y="37.5" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;控制栏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
+          <mxGeometry x="477" y="37.5" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;设置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
+          <mxGeometry x="720" y="37.5" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;电话&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
+          <mxGeometry x="962" y="37.5" width="153" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-6" value="系统应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
+          <mxGeometry x="90" y="30" width="135" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
+          <mxGeometry x="1205" y="37.5" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-45" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="SpEgUiyO-SjfohRXstem-118">
+          <mxGeometry x="6" y="1.5" width="64" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-119" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="238" y="1051" width="2052" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-119">
+          <mxGeometry width="2052" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-47" value="内核层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="SpEgUiyO-SjfohRXstem-119">
+          <mxGeometry x="3" y="21" width="64" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-119">
+          <mxGeometry x="79" y="57" width="1323" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Linux Kernel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-119">
+          <mxGeometry x="231" y="71" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LiteOS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-119">
+          <mxGeometry x="712" y="71" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-119">
+          <mxGeometry x="1192" y="71" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-30" value="内核子系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="SpEgUiyO-SjfohRXstem-119">
+          <mxGeometry x="87" y="63.5" width="135" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-48" value="KAL(内核抽象层)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="SpEgUiyO-SjfohRXstem-119">
+          <mxGeometry x="652" width="154" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="SpEgUiyO-SjfohRXstem-119" source="SpEgUiyO-SjfohRXstem-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="208" y="-261" as="sourcePoint" />
+            <mxPoint x="79" y="27" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="SpEgUiyO-SjfohRXstem-119" source="SpEgUiyO-SjfohRXstem-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="552" y="28" as="sourcePoint" />
+            <mxPoint x="1399" y="28" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-116" value="" style="group" vertex="1" connectable="0" parent="SpEgUiyO-SjfohRXstem-119">
+          <mxGeometry x="1542" y="57" width="412" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-116">
+          <mxGeometry width="412" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;HDF(硬件驱动框架)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="SpEgUiyO-SjfohRXstem-116">
+          <mxGeometry x="152" y="14" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpEgUiyO-SjfohRXstem-41" value="驱动子系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="SpEgUiyO-SjfohRXstem-116">
+          <mxGeometry x="8" y="6.5" width="135" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
