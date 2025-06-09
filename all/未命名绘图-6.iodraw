@@ -28,11 +28,8 @@
         <mxCell id="SpEgUiyO-SjfohRXstem-7" value="&lt;font face=&quot;宋体&quot;&gt;...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="SpEgUiyO-SjfohRXstem-15">
           <mxGeometry x="700" y="14" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SpEgUiyO-SjfohRXstem-17" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;扩展应用/三方应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1203" y="452" width="211" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="SpEgUiyO-SjfohRXstem-22" value="扩展应用/三方应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1219" y="458.5" width="184" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
