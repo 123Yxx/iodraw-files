@@ -5,13 +5,13 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="SpEgUiyO-SjfohRXstem-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="238" y="1051" width="2089" height="150" as="geometry" />
+          <mxGeometry x="238" y="1051" width="2052" height="150" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-47" value="内核层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="241" y="1072" width="64" height="112" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="428.5" width="2091" height="115" as="geometry" />
+          <mxGeometry x="235" y="428.5" width="2055" height="115" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;扩展应用/三方应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1203" y="452" width="211" height="68" as="geometry" />
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-112" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="803" width="2091" height="207" as="geometry" />
+          <mxGeometry x="235" y="803" width="2055" height="207" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-103" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="580" width="2055" height="207" as="geometry" />
