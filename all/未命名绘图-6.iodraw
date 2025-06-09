@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="SpEgUiyO-SjfohRXstem-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="238" y="1063" width="1201" height="138" as="geometry" />
+          <mxGeometry x="238" y="1046" width="1201" height="155" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-47" value="内核层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="241" y="1087.5" width="64" height="112" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="241" y="430" width="64" height="112" as="geometry" />
         </mxCell>
         <mxCell id="SpEgUiyO-SjfohRXstem-48" value="系统应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="335" y="468.5" width="135" height="55" as="geometry" />
+          <mxGeometry x="555" y="1051" width="135" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
