@@ -44,11 +44,17 @@
         <mxCell id="guQj3fFyT313Ht9I7nDD-12" value="数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="678" y="-224" width="78" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="guQj3fFyT313Ht9I7nDD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="guQj3fFyT313Ht9I7nDD-13" target="guQj3fFyT313Ht9I7nDD-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="guQj3fFyT313Ht9I7nDD-13" value="&lt;font face=&quot;宋体&quot;&gt;后端请求响应层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="291" y="-45" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="guQj3fFyT313Ht9I7nDD-15" value="视频文件MP4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="453" y="-52" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="guQj3fFyT313Ht9I7nDD-17" value="视频文件MP4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="135" y="-52" width="153" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
