@@ -22,8 +22,11 @@
         <mxCell id="z06tqT7pMD9XJRgn1_ex-6" value="中午 坐公交" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z06tqT7pMD9XJRgn1_ex-7" value="中午" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="410" width="60" height="30" as="geometry" />
+        <mxCell id="z06tqT7pMD9XJRgn1_ex-7" value="中午 坐公交" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z06tqT7pMD9XJRgn1_ex-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="z06tqT7pMD9XJRgn1_ex-9" target="z06tqT7pMD9XJRgn1_ex-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z06tqT7pMD9XJRgn1_ex-9" value="技术中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="500" width="120" height="60" as="geometry" />
