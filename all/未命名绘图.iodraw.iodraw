@@ -19,13 +19,13 @@
         <mxCell id="z06tqT7pMD9XJRgn1_ex-2" value="五村" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z06tqT7pMD9XJRgn1_ex-6" value="中午" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="360" width="60" height="30" as="geometry" />
+        <mxCell id="z06tqT7pMD9XJRgn1_ex-6" value="中午 坐公交" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="360" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z06tqT7pMD9XJRgn1_ex-7" value="中午" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z06tqT7pMD9XJRgn1_ex-9" value="我的工作地点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z06tqT7pMD9XJRgn1_ex-9" value="技术中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
